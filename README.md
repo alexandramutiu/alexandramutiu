@@ -24,8 +24,3 @@ I love **learning by building** and turning ideas into code, and I'm always on t
 
 ## 📫 Connect with me
 You can find me on **[LinkedIn](www.linkedin.com/in/alexandra-maria-muțiu-94a889247)** — feel free to reach out!
-
----
-
-## ⚡ Fun Fact
-I turn coffee ☕ into code 💻, enjoy solving tricky problems, and love collaborating in a team to make ideas come alive!
